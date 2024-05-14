@@ -6,7 +6,7 @@ Learn Python from basic to advanced
    + Game with the computer:Rock-paper-scissor
  - [RANDOM Password-generator](https://replit.com/@chaitanyasjosh1/password-generator)
    + It has functionality to generate a simple password and random password based on count of numbers,charcter and symbols .
- -[IPL 2024 WINNER GUESS](https://replit.com/@chaitanyasjosh1/IPLWINNER)
+ - [IPL 2024 WINNER GUESS](https://replit.com/@chaitanyasjosh1/IPLWINNER)
     + USER NEEDS TO GUESS THE IPL WINNER
-  -
+ 
  
